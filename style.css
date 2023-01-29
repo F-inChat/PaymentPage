@@ -64,4 +64,5 @@ input {
    button:hover,  button:focus {
     background-color: lightcoral;
     color: black;
+    cursor: pointer;
    }
